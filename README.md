@@ -1,5 +1,9 @@
 ### Hi there 👋
+Meu nome é Jéter Megaron, mas você pode me chamar de Mega! Meu primeiro contato com Design foi durante a graduação e desde então ele se tornou parte do meu cotidiano. Sou apaixonado pela natureza e busco inspiração nas artes, culturas, comidas e pessoas.
 
+Trabalho para chegar nas melhores soluções, colaborativamente, sempre ouvindo o usuário, os objetivos do negócio e a viabilidade técnica. Acredito que o design vai muito além do visual, sendo uma ferramenta colaborativa para alcançar resultados incríveis, projetar valor ao negócio, balanceando as necessidades dos usuários com os objetivos da empresa e utilizando o design para criar, entregar e capturar valor.
+
+Além disso, estou sempre me dedicando a aprender sobre Design!
 <!--
 **Jeter-Megaron/Jeter-Megaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
